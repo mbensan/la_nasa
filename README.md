@@ -1,5 +1,7 @@
 # La Nasa
 
+![Logo de la Nasa](https://www.lavanguardia.com/files/image_449_220/uploads/2019/08/26/5fa534dd2a116.png)
+
 ## Descripción
 
 > Proyecto demostrativo de como tener un boilerplate para iniciar aplicaciones con ExpressJS
